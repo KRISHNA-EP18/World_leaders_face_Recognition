@@ -1,0 +1,66 @@
+# Virtual Environments
+
+env/
+venv/
+.venv/
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# IDE Files
+
+.idea/
+
+# Environment Variables
+
+.env
+
+# Logs
+
+*.log
+
+# Database Files
+
+*.db
+*.sqlite3
+
+# OS Files
+
+Thumbs.db
+Desktop.ini
+
+# Build / Distribution
+
+build/
+dist/
+*.egg-info/
+
+# Python Packaging
+
+pip-wheel-metadata/
+
+# Testing
+
+.pytest_cache/
+
+# Model Artifacts (keep if needed)
+
+# Uncomment if model files are too large
+
+# *.pkl
+
+# Temporary Files
+
+*.tmp
+*.temp
