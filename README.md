@@ -170,9 +170,6 @@ This notebook was developed for experimentation and comparison purposes. The dep
 
 ## 👨‍💻 Author
 
-**Ulisetti Saketh Uzval Krishna**
+**ULISETTI SAKETH UZVAL KRISHNA**
 
-B.Tech Engineering Physics
-Indian Institute of Technology Bhubaneswar
 
-GitHub: https://github.com/KRISHNA-EP18
