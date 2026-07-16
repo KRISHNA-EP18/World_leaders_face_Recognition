@@ -52,7 +52,6 @@ The application provides a web interface where users can upload an image and rec
 * HTML5
 * CSS3
 * JavaScript
-* jQuery
 * Bootstrap
 * Dropzone.js
 
