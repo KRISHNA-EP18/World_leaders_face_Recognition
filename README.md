@@ -39,6 +39,7 @@ The application provides a web interface where users can upload an image and rec
 * Scikit-Learn
 * Support Vector Machine (SVM)
 * OpenCV
+* jQuery
 * PyWavelets
 * NumPy
 * Joblib
