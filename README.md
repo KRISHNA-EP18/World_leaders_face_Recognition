@@ -13,7 +13,7 @@ The application provides a web interface where users can upload an image and rec
 
 ![Prediction Result](UI/images/not_recognised.png)
 
-## 🚀 Features
+## 🚀 Features 
 
 * Face detection using OpenCV Haar Cascades
 * Eye detection for image validation
