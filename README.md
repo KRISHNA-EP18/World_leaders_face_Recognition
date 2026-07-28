@@ -1,6 +1,6 @@
 # 🌍 World Leaders Face Recognition System
 
-A Machine Learning and Computer Vision project that identifies famous world leaders from facial images using OpenCV, Wavelet Transform feature extraction, and a Support Vector Machine (SVM) classifier.
+A Machine Learning and Computer Vision project that identifies famous world leaders from facial images using OpenCV, Wavelet Transform feature extraction, and a Support Vector Machine (SVM) classifier. 
 
 The application provides a web interface where users can upload an image and receive the predicted leader along with confidence scores for all classes.
 
