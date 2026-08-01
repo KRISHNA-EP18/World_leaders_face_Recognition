@@ -10,7 +10,7 @@ The application provides a web interface where users can upload an image and rec
 ![Home Page](UI/images/success.png)
 
 ### Prediction Result
-
+ 
 ![Prediction Result](UI/images/not_recognised.png)
 
 ## 🚀 Features 
