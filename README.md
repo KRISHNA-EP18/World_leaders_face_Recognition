@@ -15,7 +15,7 @@ The application provides a web interface where users can upload an image and rec
 
 ## 🚀 Features  
 
-* Face detection using OpenCV Haar Cascades
+* Face detection using OpenCV Haar Cascades  
 * Eye detection for image validation
 * Automatic face cropping
 * Wavelet Transform feature extraction
